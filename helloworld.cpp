@@ -7,6 +7,11 @@ int main() {
     std::cout << "Hello, World!" << '\n';
 
 
+
+    // Functionality: Define a class Solution with a method to sum two integers.
+    // The method takes two integers as parameters and returns their sum.
+
+
     class Solution {
     public:
     int sum(int num1, int num2) {
