@@ -23,7 +23,7 @@ int main() {
 
     int questions = 10;
     double percentage = (double)test_score / questions * 100; // Explicit type conversion
-    std::cout <<"Hello "  << name << ", your score is " << percentage << "%";
+    std::cout <<"Hello "  << name << ", your score is " << percentage << "%" << '\n';
 
 
     return 0;
